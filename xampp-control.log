@@ -1,0 +1,138 @@
+2:33:09 PM  [main] 	Initializing Control Panel
+2:33:09 PM  [main] 	Windows Version:  Enterprise  64-bit
+2:33:09 PM  [main] 	XAMPP Version: 8.2.12
+2:33:09 PM  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+2:33:09 PM  [main] 	Running with Administrator rights - good!
+2:33:09 PM  [main] 	XAMPP Installation Directory: "c:\xampp\"
+2:33:09 PM  [main] 	Checking for prerequisites
+2:33:09 PM  [main] 	All prerequisites found
+2:33:09 PM  [main] 	Initializing Modules
+2:33:09 PM  [Apache] 	XAMPP Apache Service is already running on port 80
+2:33:09 PM  [Apache] 	XAMPP Apache Service is already running on port 443
+2:33:09 PM  [mysql] 	XAMPP MySQL Service is already running on port 3306
+2:33:09 PM  [main] 	Starting Check-Timer
+2:33:09 PM  [main] 	Control Panel Ready
+2:33:13 PM  [Apache] 	Attempting to stop Apache service...
+2:33:15 PM  [Apache] 	Status change detected: stopped
+2:33:17 PM  [mysql] 	Attempting to stop MySQL service...
+2:33:19 PM  [mysql] 	Status change detected: stopped
+2:33:24 PM  [Apache] 	Attempting to start Apache service...
+2:33:25 PM  [Apache] 	Status change detected: running
+2:33:26 PM  [mysql] 	Attempting to start MySQL service...
+2:33:27 PM  [mysql] 	Status change detected: running
+2:40:20 PM  [mysql] 	Attempting to stop MySQL service...
+2:40:22 PM  [Apache] 	Attempting to stop Apache service...
+2:40:22 PM  [mysql] 	Status change detected: stopped
+2:40:24 PM  [Apache] 	Status change detected: stopped
+2:41:15 PM  [Apache] 	Status change detected: running
+2:41:16 PM  [mysql] 	Status change detected: running
+2:41:53 PM  [Apache] 	Status change detected: stopped
+2:41:53 PM  [mysql] 	Status change detected: stopped
+2:42:03 PM  [main] 	Deinitializing Modules
+2:42:03 PM  [main] 	Deinitializing Control Panel
+
+12:50:34 PM  [main] 	Initializing Control Panel
+12:50:34 PM  [main] 	Windows Version:  Enterprise  64-bit
+12:50:34 PM  [main] 	XAMPP Version: 8.2.12
+12:50:34 PM  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+12:50:34 PM  [main] 	Running with Administrator rights - good!
+12:50:34 PM  [main] 	XAMPP Installation Directory: "c:\xampp\"
+12:50:34 PM  [main] 	Checking for prerequisites
+12:50:39 PM  [main] 	All prerequisites found
+12:50:39 PM  [main] 	Initializing Modules
+12:50:39 PM  [main] 	Starting Check-Timer
+12:50:39 PM  [main] 	Control Panel Ready
+12:50:50 PM  [Apache] 	Installing service...
+12:50:53 PM  [Apache] 	Successful!
+12:50:59 PM  [mysql] 	Installing service...
+12:51:00 PM  [mysql] 	Successful!
+12:51:05 PM  [Apache] 	Attempting to start Apache service...
+12:51:06 PM  [Apache] 	Status change detected: running
+12:51:09 PM  [mysql] 	Attempting to start MySQL service...
+12:51:10 PM  [mysql] 	Status change detected: running
+2:33:15 PM  [Apache] 	Status change detected: stopped
+2:33:15 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+2:33:15 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+2:33:15 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+2:33:15 PM  [Apache] 	Press the Logs button to view error logs and check
+2:33:15 PM  [Apache] 	the Windows Event Viewer for more clues
+2:33:15 PM  [Apache] 	If you need more help, copy and post this
+2:33:15 PM  [Apache] 	entire log window on the forums
+2:33:19 PM  [mysql] 	Status change detected: stopped
+2:33:19 PM  [mysql] 	Error: MySQL shutdown unexpectedly.
+2:33:19 PM  [mysql] 	This may be due to a blocked port, missing dependencies, 
+2:33:19 PM  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+2:33:19 PM  [mysql] 	Press the Logs button to view error logs and check
+2:33:19 PM  [mysql] 	the Windows Event Viewer for more clues
+2:33:19 PM  [mysql] 	If you need more help, copy and post this
+2:33:19 PM  [mysql] 	entire log window on the forums
+2:33:25 PM  [Apache] 	Status change detected: running
+2:33:26 PM  [mysql] 	Status change detected: running
+2:40:22 PM  [mysql] 	Status change detected: stopped
+2:40:22 PM  [mysql] 	Error: MySQL shutdown unexpectedly.
+2:40:22 PM  [mysql] 	This may be due to a blocked port, missing dependencies, 
+2:40:22 PM  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+2:40:22 PM  [mysql] 	Press the Logs button to view error logs and check
+2:40:22 PM  [mysql] 	the Windows Event Viewer for more clues
+2:40:22 PM  [mysql] 	If you need more help, copy and post this
+2:40:22 PM  [mysql] 	entire log window on the forums
+2:40:24 PM  [Apache] 	Status change detected: stopped
+2:40:24 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+2:40:24 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+2:40:24 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+2:40:24 PM  [Apache] 	Press the Logs button to view error logs and check
+2:40:24 PM  [Apache] 	the Windows Event Viewer for more clues
+2:40:24 PM  [Apache] 	If you need more help, copy and post this
+2:40:24 PM  [Apache] 	entire log window on the forums
+2:41:15 PM  [Apache] 	Status change detected: running
+2:41:16 PM  [mysql] 	Status change detected: running
+2:41:53 PM  [Apache] 	Status change detected: stopped
+2:41:53 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+2:41:53 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+2:41:53 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+2:41:53 PM  [Apache] 	Press the Logs button to view error logs and check
+2:41:53 PM  [Apache] 	the Windows Event Viewer for more clues
+2:41:53 PM  [Apache] 	If you need more help, copy and post this
+2:41:53 PM  [Apache] 	entire log window on the forums
+2:41:53 PM  [mysql] 	Status change detected: stopped
+2:41:53 PM  [mysql] 	Error: MySQL shutdown unexpectedly.
+2:41:53 PM  [mysql] 	This may be due to a blocked port, missing dependencies, 
+2:41:53 PM  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+2:41:53 PM  [mysql] 	Press the Logs button to view error logs and check
+2:41:53 PM  [mysql] 	the Windows Event Viewer for more clues
+2:41:53 PM  [mysql] 	If you need more help, copy and post this
+2:41:53 PM  [mysql] 	entire log window on the forums
+2:42:03 PM  [main] 	Deinitializing Modules
+2:42:03 PM  [main] 	Deinitializing Control Panel
+
+3:24:51 PM  [main] 	Initializing Control Panel
+3:24:51 PM  [main] 	Windows Version:  Enterprise  64-bit
+3:24:51 PM  [main] 	XAMPP Version: 8.2.12
+3:24:51 PM  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+3:24:51 PM  [main] 	Running with Administrator rights - good!
+3:24:51 PM  [main] 	XAMPP Installation Directory: "c:\xampp\"
+3:24:51 PM  [main] 	Checking for prerequisites
+3:24:57 PM  [main] 	All prerequisites found
+3:24:57 PM  [main] 	Initializing Modules
+3:24:57 PM  [main] 	Starting Check-Timer
+3:24:57 PM  [main] 	Control Panel Ready
+3:25:05 PM  [main] 	Deinitializing Modules
+3:25:05 PM  [main] 	Deinitializing Control Panel
+
+8:42:15 AM  [main] 	Initializing Control Panel
+8:42:15 AM  [main] 	Windows Version:  Enterprise  64-bit
+8:42:15 AM  [main] 	XAMPP Version: 8.2.12
+8:42:15 AM  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+8:42:15 AM  [main] 	Running with Administrator rights - good!
+8:42:15 AM  [main] 	XAMPP Installation Directory: "c:\xampp\"
+8:42:15 AM  [main] 	Checking for prerequisites
+8:42:17 AM  [main] 	All prerequisites found
+8:42:17 AM  [main] 	Initializing Modules
+8:42:17 AM  [Apache] 	XAMPP Apache Service is already running on port 80
+8:42:17 AM  [Apache] 	XAMPP Apache Service is already running on port 443
+8:42:17 AM  [mysql] 	XAMPP MySQL Service is already running on port 3306
+8:42:17 AM  [main] 	Starting Check-Timer
+8:42:17 AM  [main] 	Control Panel Ready
+9:46:43 AM  [main] 	Deinitializing Modules
+9:46:43 AM  [main] 	Deinitializing Control Panel
+
